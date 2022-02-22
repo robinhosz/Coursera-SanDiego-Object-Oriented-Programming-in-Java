@@ -1,39 +1,31 @@
-<h2> Projeto do coursera oop em java!</h2>
+<h2> Projeto do coursera oop em java! :fire:</h2>
 
-This is a skeleton to use Unfolding in Eclipse as well as some starter
-code for the Object Oriented Programming in Java course offered by 
-UC San Diego through Coursera.
+Este é um esqueleto para usar o **Unfolding** no Eclipse, bem como algum código inicial para o curso de Programação Orientada a Objetos em Java oferecido pela UC San Diego através do Coursera.
 
-A very basic Unfolding demo you'll find in the source folder in the default package. 
-For more examples visit http://unfoldingmaps.org, or download the template with
-examples.
+Uma demonstração básica do **Unfolding** você encontrará na pasta de origem no pacote padrão. Para obter mais exemplos, visite http://unfoldingmaps.org ou baixe o modelo com exemplos.
 
-The module folders contain the starter code for the programming assignments
-associated with the MOOC.
+As pastas do módulo contêm o código inicial para as atribuições de programação associadas ao MOOC.
 
-Get excited and make things!
+### Instalação 🛠️
+
+Importe esta pasta no Eclipse ('File' -> 'Import' -> 'Existing Projects into
+Workspace', selecione esta pasta, 'Finish')
 
 
-INSTALLATION
+### Instalação Manual ⚙️
 
-Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
-Workspace', Select this folder, 'Finish')
+Se a importação não funcionar siga os passos abaixo.
 
-
-MANUAL INSTALLATION
-
-If the import does not work follow the steps below.
-
-- Create new Java project
-- Copy+Paste all files into project
-- Add all lib/*.jars to build path
-- Set native library location for jogl.jar. Choose appropriate folder for your OS.
-- Add data/ as src
+- Criar novo projeto Java
+- Copie + Cole todos os arquivos no projeto
+- Adicione todos os lib/*.jars ao caminho de construção
+- Defina a localização da biblioteca nativa para jogl.jar. Escolha a pasta apropriada para o seu sistema operacional.
+- Adicionar dados/ como src
 
 
-TROUBLE SHOOTING
+## Solução de problemas :exclamation:
 
-Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
+Mude o Java Compiler para 1.6 se você tiver problemas de VM. (O processamento deve funcionar com Java 1.6 e 1.7)
 
 
 
